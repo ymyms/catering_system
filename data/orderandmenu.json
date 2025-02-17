@@ -1,0 +1,63 @@
+{
+    "menu": {
+        "Rest name": "KIKI RESTAURANT",
+        "Menu": [
+            {
+                "have been ordered #": 1,
+                "price": 16,
+                "name": "Bibimbap",
+                "description": "korean fried rice",
+                "category": "MAIN"
+            },
+            {
+                "have been ordered #": 1,
+                "price": 18,
+                "name": "Beef Tofu Soup",
+                "description": "Beef,vegetables, and yolk, soft tofu soup.",
+                "category": "MAIN"
+            },
+            {
+                "have been ordered #": 0,
+                "price": 18,
+                "name": "Cheese Cake",
+                "description": "sweet dessert",
+                "category": "DESSERT"
+            },
+            {
+                "have been ordered #": 1,
+                "price": 3,
+                "name": "Tea",
+                "description": "fruit tea",
+                "category": "DRINK"
+            }
+        ]
+    },
+    "order": {
+        "Order": [
+            {
+                "have been ordered #": 1,
+                "price": 18,
+                "name": "Beef Tofu Soup",
+                "description": "Beef,vegetables, and yolk, soft tofu soup.",
+                "category": "MAIN"
+            },
+            {
+                "have been ordered #": 1,
+                "price": 3,
+                "name": "Tea",
+                "description": "fruit tea",
+                "category": "DRINK"
+            },
+            {
+                "have been ordered #": 1,
+                "price": 16,
+                "name": "Bibimbap",
+                "description": "korean fried rice",
+                "category": "MAIN"
+            }
+        ],
+        "Table name": "Costumer",
+        "Order Total Price": 0,
+        "If Ordered": true
+    }
+}

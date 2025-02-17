@@ -1,0 +1,56 @@
+{
+  "menu": {
+    "Rest name": "Menu",
+    "Menu": [
+      {
+        "have been ordered #": 2,
+        "price": 14,
+        "name": "Tteok-Bokki",
+        "description": "Korean spicy stir-fried rice cake.",
+        "category": "APPETIZER"
+      },
+      {
+        "have been ordered #": 1,
+        "price": 18,
+        "name": "Beef Tofu Soup",
+        "description": "Beef,vegetables, and yolk, soft tofu soup.",
+        "category": "MAIN"
+      },
+      {
+        "have been ordered #": 0,
+        "price": 18,
+        "name": "Cheese Cake",
+        "description": "",
+        "category": "DESSERT"
+      },
+      {
+        "have been ordered #": 0,
+        "price": 3,
+        "name": "Coca Cola",
+        "description": "",
+        "category": "DRINK"
+      }
+    ]
+  },
+  "order": {
+    "Order": [
+      {
+        "have been ordered #": 2,
+        "price": 14,
+        "name": "Tteok-Bokki",
+        "description": "Korean spicy stir-fried rice cake.",
+        "category": "APPETIZER"
+      },
+      {
+        "have been ordered #": 1,
+        "price": 18,
+        "name": "Beef Tofu Soup",
+        "description": "Beef,vegetables, and yolk, soft tofu soup.",
+        "category": "MAIN"
+      }
+    ],
+    "Table name": "A1",
+    "Order Total Price": 0,
+    "If Ordered": false
+  }
+}

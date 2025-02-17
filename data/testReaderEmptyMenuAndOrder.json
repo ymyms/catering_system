@@ -1,0 +1,12 @@
+{
+  "menu": {
+    "Rest name": "Menu",
+    "Menu": []
+  },
+  "order": {
+    "Order": [],
+    "Table name": "A1",
+    "Order Total Price": 0,
+    "If Ordered": false
+  }
+}
